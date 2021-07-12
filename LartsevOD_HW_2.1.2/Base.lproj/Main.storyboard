@@ -91,6 +91,7 @@
                     <connections>
                         <outlet property="greenLightView" destination="AYZ-so-kKh" id="T6L-qq-z6G"/>
                         <outlet property="redLightView" destination="dmK-er-7L0" id="tOi-2x-hRR"/>
+                        <outlet property="startButton" destination="oHd-0B-Df6" id="O44-pO-hgh"/>
                         <outlet property="yellowLightView" destination="ZER-69-kmh" id="ObP-kQ-QdZ"/>
                     </connections>
                 </viewController>
